@@ -4,7 +4,7 @@
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 
 local scripts = {
-    [126884695634066] = "https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Garden/Garden-V1.lua",
+    [126884695634066] = "https://raw.githubusercontent.com/dkharyanto/dodoy/refs/heads/main/v1.lua",
 }
 
 local url = scripts[game.PlaceId]
